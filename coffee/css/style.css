@@ -1,0 +1,43 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    height: 500px;
+}
+.coffee{
+    height: 400px;
+    background-image: url('/images/33\ -\ Copy.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+}
+.main-one{
+    color: white;
+    margin-top: 170px;
+}
+.coffeetwo{
+    height: 400px;
+    background-image: url('/images/34\ -\ Copy.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+}
+.bing{
+    padding: 20px;
+}
+
+.main-two{
+    color: white;
+    margin-top: 170px;
+    background-color: rgba(127, 255, 212, 0.349);
+}
+.main-two h3{
+    color: white;
+
+}
+.main-two u{
+    color: rgba(255, 0, 0, 0.527);
+}
